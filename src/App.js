@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Source code:
+          Source code
         </a>
       </header>
     </div>
